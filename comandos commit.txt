@@ -1,0 +1,4 @@
+//alteração de documento.
+git add .
+git commit // se quiser adicionar uma mensagem no commit use ( -m "mensagem" )
+git push // enviar commit.
