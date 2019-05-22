@@ -1,2 +1,2 @@
 # exercicios_webpack
-Exercicios de webpack
+Exercicios de webpack 01
